@@ -1,0 +1,33 @@
+{
+  "pledges": [
+    {
+      "id": "P001",
+      "name": "Test User",
+      "email": "test@example.com",
+      "mobile": "9999999999",
+      "state": "Tamil Nadu",
+      "profile": "Student",
+      "commitments": [
+        "Switch off lights",
+        "Use reusable bottle"
+      ],
+      "date": "2025-10-28 12:00"
+    },
+    {
+      "id": "P1761674979363",
+      "name": "THIMMAREDDY NITHIN REDDY",
+      "email": "nithinreddythimmareddy18@gmail.com",
+      "mobile": "8790364548",
+      "state": "Telangana",
+      "profile": "Student",
+      "commitments": [
+        "Switch off lights",
+        "Use public transport",
+        "Compost",
+        "Reduce single-use plastics",
+        "Repair don’t replace"
+      ],
+      "date": "2025-10-28 23:39"
+    }
+  ]
+}

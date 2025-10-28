@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-light text-slate-800 font-sans;
+}
+
+.btn {
+  @apply inline-block bg-primary hover:bg-emerald-700 text-white px-6 py-2 rounded-lg shadow-md transition-all;
+}
+
+.card {
+  @apply bg-white rounded-2xl shadow-sm hover:shadow-md transition-all p-6;
+}
+
+h1, h2, h3 {
+  @apply text-dark font-bold;
+}
