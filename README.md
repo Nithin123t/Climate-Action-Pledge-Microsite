@@ -11,23 +11,6 @@ It implements **all requirements** from the official internship PDF brief — in
 > [https://your-deployed-site-link.vercel.app](https://climate-action-pledge-microsite-eight.vercel.app/)
 
 ---
-
-## 🧭 Table of Contents
-- [Project Overview](#project-overview)
-- [Key Features](#key-features)
-- [Tech Stack](#tech-stack)
-- [Folder Structure](#folder-structure)
-- [Installation & Local Setup](#installation--local-setup)
-- [Backend (JSON Server)](#backend-json-server)
-- [Frontend Functionality](#frontend-functionality)
-- [API Routes](#api-routes)
-- [Deployment Guide](#deployment-guide)
-- [Privacy Note](#privacy-note)
-- [Screenshots](#screenshots)
-- [Credits](#credits)
-
----
-
 ## 📘 Project Overview
 
 The **Climate Action Pledge Microsite** is designed to engage individuals to commit to positive environmental actions.  
